@@ -1,5 +1,8 @@
 # Artificial Dreams
-When it comes to writing about artificial intelligence, I see two extremes. On one side are the “how-to” guides — dense, technical, and hyper-focused on implementation details. They’re useful if you’re looking for a tutorial, but they rarely invite reflection. On the other side are sweeping works of science fiction, the kind Isaac Asimov made famous. He sketched vast futures filled with robots, artificial minds, and moral dilemmas we’re still circling today. And yet, despite the sheer volume of his work, I sometimes feel like no one’s paying much attention. The questions Asimov raised decades ago — about ethics, control, creativity, and what it means to be human — are still with us. But they’re too often drowned out by product announcements, venture capital hype, or the next flashy demo.
+
+When it comes to writing about artificial intelligence, I see two extremes. On one side are the “how-to” guides — dense, technical, and hyper-focused on implementation details. They’re useful if you’re looking for a tutorial, but they rarely invite reflection. On the other side are sweeping works of science fiction, the kind Isaac Asimov made famous. He sketched vast futures filled with robots, artificial minds, and moral dilemmas we’re still circling today. And yet, despite the sheer volume of his work, I sometimes feel like no one’s paying much attention.
+
+The questions Asimov raised decades ago — about ethics, control, creativity, and what it means to be human — are still with us. But they’re too often drowned out by product announcements, venture capital hype, or the next flashy demo.
 
 What feels missing is a middle ground: thought experiments. A place to pause and ask not just how AI works, but what it means - or what it will mean in the future. That’s what I want Artificial Dreams to be — a space for considering implications, testing ideas, and drawing connections between technology, art, history, and society.
 
