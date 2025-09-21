@@ -1,4 +1,4 @@
-# I Wrote My First MCP Server. In 2003.
+# Did I Write My First MCP Server in 2003?
 
 ## Something New is Afoot...
 When I first heard about the MCP Protocol (https://github.com/modelcontextprotocol), I got really
