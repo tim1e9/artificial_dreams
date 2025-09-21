@@ -132,7 +132,7 @@ and SOAP remain excellent candidates for compatibility.
 
 ## Unlocking Value in the Enterprise
 I often end up in places where I hear corporate executives present to audiences. And based on those experiences, I hear a
-number of recurring themes. Once of the strongest themes is to "unlock value" from their enterprise systems. If you can get past
+number of recurring themes. One of the strongest themes is to "unlock value" from their enterprise systems. If you can get past
 the mushy metaphor, what they're really saying is this: Look, we've got lots of data, and we've got lots of functions / microservices.
 However, none of our systems talk to each other. This means we have to re-do things, and miss opportunities, because one part of
 the company can't leverage information and behavior in another part.
@@ -177,7 +177,7 @@ on me for ideas.
 
 ## Conclusion
 
-Conceptually speaking, MCP is a huge leap forward in the use of Generative AI within web development. And given it's
+Conceptually speaking, MCP is a huge leap forward in the use of Generative AI within web development. And given its
 striking similarity to SOAP and REST, there's a huge opportunity in front of the AI/ML community. By making minor changes
 to the specification, enterprises will be able to leverage 20+ years of functionality and data. This could have an
 incredibly powerful impact on our businesses and even in our community.
