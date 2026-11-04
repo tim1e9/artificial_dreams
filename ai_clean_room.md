@@ -106,7 +106,9 @@ There's another economic dimension that I find particularly interesting. Histori
 
 Artificial intelligence may be changing that calculation. If the cost of understanding existing software falls dramatically, entirely new categories of projects may become feasible. Developers might be able to preserve abandoned applications, create compatible replacements for obsolete systems, or offer alternatives to software whose original vendors no longer provide support. At the same time, the same capabilities could be used to challenge companies that continue to invest heavily in original software development.
 
-Would the overall result be more innovation, more competition, and better preservation of our computing history? Or would it reduce the incentives to create new software in the first place? Perhaps both outcomes could occur simultaneously, depending on the market and the circumstances.
+In fact, we're already beginning to see experiments along these lines. In late 2026, a developer named Brandon Thomas launched a collection of open-source projects intended to recreate major applications from Adobe's Creative Cloud and Microsoft's Office suite, using AI-assisted development. The effort, known as ArtCraft, includes projects targeting Photoshop, Illustrator, Premiere Pro, Word, Excel, and PowerPoint, among others. These are still early implementations, and their authors' descriptions of them as clean-room reimplementations shouldn't be confused with a legal determination. Nevertheless, the fact that someone is attempting to recreate such substantial commercial applications with AI assistance illustrates just how quickly this field is evolving.
+
+Will this result in more innovation, more competition, and better preservation of our computing history? Or will it reduce the incentives to create new software in the first place? Perhaps both outcomes could occur simultaneously, depending on the market and the circumstances.
 
 I don't think there's an obvious answer, and that's part of what makes this subject worth discussing.
 
